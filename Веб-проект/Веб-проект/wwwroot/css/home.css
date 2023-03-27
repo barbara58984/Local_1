@@ -1,0 +1,320 @@
+body{
+    background-color: rgb(59 127 192);
+    margin:0;
+    position: relative;
+    line-height: 1.4;
+    min-width: 320px;
+    overflow-x: hidden;
+    height:auto;
+}
+.col_center{
+    display: flex;
+    flex-flow: row nowrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color:aliceblue;
+}
+.col_center_right{
+    display: flex;
+    flex-flow: row nowrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color:aliceblue;
+}
+.py-1_bg-primary{
+    width:100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* height: 45px; */
+    display: block;
+    background-color: #035873;
+}
+.row_d-flex{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+.navbar{
+    background-color: #A5A6F6;
+    width:100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: block;
+    /* height: 70px; */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+}
+.navbar .container_1{
+    height: inherit;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.navbar-menu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    
+}
+.navbar-menu li{
+    display: inline-block;
+}
+.collapse{
+    display: flex;
+    flex-flow: row nowrap;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color: #000;
+}
+.navbar-menu li a{
+    display: inline-block;
+    color: #111;  
+    /* Посмотреть анимацию меню белое*/
+    opacity: 0.8;
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 0;
+    transition: all .07s ease-in-out;
+}
+.py-1_bg-primary .container_1 .row_d-flex{
+    height: inherit;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.col_center div{
+    display: inline-block;
+}
+.picture_phone{
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+}
+.navbar-menu li a:hover{
+    
+    opacity: 1;
+    
+}
+.navbar-brand:hover{
+    color: cornflowerblue;
+}
+.text{
+    display: inline-block;
+    color: #111;  
+    /* Посмотреть анимацию меню белое*/
+    opacity: 0.8;
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 0;
+    transition: all .07s ease-in-out;
+    /* background:  url('D:/Imagine/eye.png') 0 0 no-repeat; */
+}
+.text:hover{
+    opacity: 1;
+    
+}
+.nav-item_active{
+    border-left: 2px solid rgb(255, 253, 253);
+}
+
+.skying{
+    /* position: absolute;  */
+    display:block;
+    /* top:190px;
+    left: 0; */
+    width: 100%;
+    height: 100vh;
+    /* background: url("D:/Imagine/sky_fon.png"); */
+    background-size: cover;
+}
+    .skying .sky {
+        position: absolute;
+        display: block;
+        /* top:0;
+    left: 0; */
+        width: 100%;
+        height: inherit;
+        background-image: url(img/sky_front.png);
+        animation: anim 90s linear infinite;
+    }
+@keyframes anim {
+    0%{background-position: 0px;}
+    100%{background-position: 1600px;}
+}
+
+.main_article {
+    background-image: url(../img/mountains.png);
+    /* top:1350px; */
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-size: cover;
+    box-sizing: border-box;
+}
+/* .layers{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    overflow: hidden;
+    position:relative;
+} */
+.skying .layer{
+    height: inherit;
+    width: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    
+}
+.main_article{
+    height: 100vh;
+}
+.layers_base{
+    transform: translate3d(0, calc(var(--scrollTop)/4), 0);
+}
+.layers_title{
+    transform: translate3d(0, calc(var(--scrollTop)/11), 0);
+}
+/* .layers_front{
+    transform: translate3d(0, calc(var(--scrollTop)/5), 0);
+} */
+:root {
+    --index: calc(1vw+1vh);
+}
+.skying .layer::after {
+    content: '';
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    /* height: 300px; */
+    /* height: calc(var(--scrollTop)*3); */
+    height: calc(var(--index)*20);
+    background-image: url("img/line.png");
+    background-size: cover;
+    bottom: calc(var(--index)*-14);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+/*Собственно сам слайдер*/
+.slider {
+    max-width: 70%;
+    position: relative;
+    display: block;
+    height: calc(var(--index)*40);
+    padding-top: 130px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+    /* Картинка мастабируется по отношению к родительскому элементу */
+.slider .item img {
+        object-fit: cover;
+        width: 100%;
+        height: calc(var(--index)*40);
+}
+
+    /* Кнопки вперед и назад */
+.slider .prev, .slider .next {
+        cursor: pointer;
+        position: absolute;
+        /*top: 0;*/
+        top: 50%;
+        width: auto;
+        margin-top: -22px;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+ }
+
+
+.slider .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+ }
+
+
+  /* При наведении на кнопки добавляем фон кнопок */
+
+ .slider .prev:hover,
+ .slider .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+ }
+
+.forms {
+    max-width: 70%;
+    position: relative;
+    display: block;
+    height: calc(var(--index)*25);
+    /* padding-top: 130px; */
+    /* margin-top: 50px; */
+    margin: auto;
+    background-color: #fff;
+}
+
+
+/* табы */
+.tabs {
+    font-size: 0;
+}
+
+    .tabs > input[type="radio"] {
+        display: none;
+    }
+
+    .tabs > div {
+        /* скрыть контент по умолчанию */
+        display: none;
+        border: 1px solid #e0e0e0;
+        padding: 10px 15px;
+        font-size: 24px;
+    }
+
+/* отобразить контент, связанный с вабранной радиокнопкой (input type="radio") */
+#tab-btn-1:checked ~ #content-1,
+#tab-btn-2:checked ~ #content-2,
+#tab-btn-3:checked ~ #content-3 {
+    display: block;
+}
+
+.tabs > label {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    color: #000000;
+    background-color: #8ebef5;
+    border: 1px solid #479cf0;
+    padding: 2px 8px;
+    font-size: 20px;
+    line-height: 1.5;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    top: 1px;
+}
+
+    .tabs > label:not(:first-of-type) {
+        border-left: none;
+    }
+
+.tabs > input[type="radio"]:checked + label {
+    background-color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+ /*форма покупки билетов*/
+
