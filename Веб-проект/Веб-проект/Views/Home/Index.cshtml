@@ -51,34 +51,62 @@
             <input type="radio" name="tab-btn" id="tab-btn-3" value="">
             <label for="tab-btn-3">Управление бронированием</label>
             <div id="content-1">
-                <form method="post" asp-controller="Home" asp-action="Check">
-                    <label asp-for="City_there"></label>
-                    <input asp-for="City_there"/>
-                    <span asp-validation-for="City_there"></span>
+                <form method="post" action="/Home/Check">
 
-                    <label asp-for="City_back"></label>
-                    <input asp-for="City_back" />
-                    <span asp-validation-for="City_back"></span>
+                    <datalist id="CityList">
+                        <option value="Moscow">Москва</option>
+                        <option value="Saratov">Саратов</option>
+                        <option value="Krasnodar">Краснодар</option>
+                        <option value="Sochi">Сочи</option>
+                        <option value="Volgograd">Волгоград</option>
+                        <option value="Saint-Petersburg">Санкт-Петербург</option>
+                        <option value="Samara">Самара</option>
+                    </datalist>
 
-                    <label asp-for="Date_there"></label>
-                    <input asp-for="Date_there" />
-                    <span asp-validation-for="Date_there"></span>
 
-                    <label asp-for="Date_back"></label>
-                    <input asp-for="Date_back" />
-                    <span asp-validation-for="Date_back"></span>
 
-                    <input type="submit" value="Найти" />
+                    <label for="City_there"></label>
+                    <input type="text" placeholder="Откуда" id="City_there" name="City_there" value="" list="CityList" required>
+
+                    <label for="City_back"></label>
+                    <input type="text" placeholder="Куда" id="City_back" name="City_back" value="" list="CityList" required>
+
+                    <label for="Date_there"></label>
+                    <input type="text" placeholder="Туда" id="Date_there" name="Date_there" value="" required onfocus="this.type='date'" onblur="if(this.value==''){this.type='text'}">
+
+                    <label for="Date_back"></label>
+                    <input type="text" placeholder="Обратно" id="Date_back" name="Date_back" value="" onfocus="this.type='date'" onblur="if(this.value==''){this.type='text'}">
+
+                    <label for="Passengers"></label>
+                    <input type="button" value="Пассажиры" id="Passengers" name="Passengers">
+
+                    <input type="submit" value="Найти" id="search_1" name="search_1">
                 </form>
             </div>
             <div id="content-2">
-                Содержимое 2...
+                <form method="post" action="/Home/Check">
+                    <label for="Booking_code"></label>
+                    <input type="text" placeholder="Код бронирования" id="Booking_code" name="Booking_code" value="" required>
+
+                    <label for="FIO"></label>
+                    <input type="text" placeholder="ФИО клиента" id="FIO" name="FIO" value="" required>
+
+                    <input type="submit" value="Далее" id="search_2" name="search_2">
+                </form>
             </div>
             <div id="content-3">
-                Содержимое 3...
+                <form method="post" action="/Home/Check">
+                    <label for="Booking_code"></label>
+                    <input type="text" placeholder="Код бронирования" id="Booking_code" name="Booking_code" value="" required>
+
+                    <label for="FIO"></label>
+                    <input type="text" placeholder="ФИО клиента" id="FIO" name="FIO" value="" required>
+
+                    <input type="submit" value="Найти" id="search_2" name="search_2">
+                </form>
             </div>
         </div>
-    </div> 
+        </div>
 
 </section>
 

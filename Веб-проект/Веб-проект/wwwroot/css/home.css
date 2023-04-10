@@ -255,7 +255,7 @@ body{
  }
 
 .forms {
-    max-width: 70%;
+    
     position: relative;
     display: block;
     height: calc(var(--index)*25);
@@ -316,5 +316,32 @@ body{
     border-bottom: 1px solid #fff;
 }
 
- /*форма покупки билетов*/
+.forms {
+    width: 70em;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#City_There, #City_back {
+    width: 10em;
+}
+
+#Booking_code {
+    width: 15em;
+}
+
+#FIO {
+    width: 25em;
+}
+
+#search_2 {
+    width: 12em;
+}
+
+input {
+    height: 2.6em;
+    width: 8em;
+    font-size: 20px;
+    text-align: center;
+}
 
