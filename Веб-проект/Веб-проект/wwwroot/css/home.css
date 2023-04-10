@@ -255,7 +255,7 @@ body{
  }
 
 .forms {
-    max-width: 70%;
+    
     position: relative;
     display: block;
     height: calc(var(--index)*25);
@@ -316,5 +316,90 @@ body{
     border-bottom: 1px solid #fff;
 }
 
- /*форма покупки билетов*/
+.forms {
+    width: 70em;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#City_There, #City_back {
+    width: 10em;
+}
+
+#Booking_code {
+    width: 15em;
+}
+
+#FIO {
+    width: 25em;
+}
+
+#search_2 {
+    width: 12em;
+}
+
+input {
+    height: 2.6em;
+    width: 8em;
+    font-size: 20px;
+    text-align: center;
+}
+/*Форма Пассажиры*/
+
+#content_pass form {
+    border: 1px solid black;
+    width: 20em;
+    padding: 0.5em;
+    position: absolute;
+    background-color: aliceblue;
+}
+
+#Adults_minus, #Kids_minus {
+    margin-left: 3.9em;
+}
+
+#Baby_yes_place_minus {
+    margin-left: 0.175em;
+}
+
+#Adults_minus, #Kids_minus, #Baby_yes_place_minus, #Baby_no_place_minus {
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    border-radius: 1em;
+    border: 1px solid black;
+    width: 2em;
+    height: 1.5em;
+    margin-top: 0.5em;
+}
+
+#Adults_plus, #Kids_plus, #Baby_yes_place_plus, #Baby_no_place_plus {
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+    border-radius: 1em;
+    border: 1px solid black;
+    width: 2em;
+    height: 1.5em;
+    margin-top: 0.5em;
+}
+
+.content_pass {
+    display: none;
+    margin-top: -17em;
+    margin-left: 58em;
+}
+/*Кнопка Закрыть на форме Пассажиры (Ирина)*/
+#bt_close {
+    background-color: none;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 1em;
+    width: 2em;
+    height: 1.5em;
+    margin-top: 0;
+    margin-left: 18em;
+}
 

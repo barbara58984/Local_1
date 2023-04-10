@@ -24,3 +24,29 @@ D:\Users\Акоп\Downloads\Веб-проект\Веб-проект\obj\Debug\ne
 D:\Users\Акоп\Downloads\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.pdb
 D:\Users\Акоп\Downloads\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.genruntimeconfig.cache
 D:\Users\Акоп\Downloads\Веб-проект\Веб-проект\obj\Debug\net6.0\ref\Веб-проект.dll
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\appsettings.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.staticwebassets.runtime.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.exe
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.deps.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.dll
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.pdb
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.RazorAssemblyInfo.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.RazorAssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\bundle\Веб-проект.styles.css
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\projectbundle\Веб-проект.bundle.scp.css
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.dll
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\refint\Веб-проект.dll
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.pdb
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\ref\Веб-проект.dll
