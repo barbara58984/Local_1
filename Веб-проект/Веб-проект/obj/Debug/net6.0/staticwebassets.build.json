@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CX6yIod8Ap3IIjmYNzeijI/sUy/oG+7mzkDJi0dm518=",
+  "Hash": "ROT71Rh8z3H+6Y7yBfBYftZpnskUWbUnvFO+4Qv48m0=",
   "Source": "Веб-проект",
   "BasePath": "_content/Веб-проект",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Веб-проект\\wwwroot",
       "Source": "Веб-проект",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Веб-проект.styles.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Веб-проект.styles.css",
       "SourceId": "Веб-проект",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "Веб-проект.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Веб-проект.styles.css"
+      "OriginalItemSpec": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Веб-проект.styles.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Веб-проект.bundle.scp.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Веб-проект.bundle.scp.css",
       "SourceId": "Веб-проект",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "Веб-проект.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Веб-проект.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Веб-проект.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\home.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\home.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/1.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\11jpg.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\11jpg.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/11jpg.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\11jpg.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/1614569882_20-p-oblaka-na-belom-fone-33.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/1614569882_20-p-oblaka-na-belom-fone-33.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\2.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\2.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/2.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\3.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\3.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/3.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\4.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\4.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/4.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\5.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\5.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/5.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\account.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\account.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/account.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\account.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\black-and-white-clou.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\black-and-white-clou.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/black-and-white-clou.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\black-and-white-clou.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\cloud-clipart-30.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\cloud-clipart-30.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/cloud-clipart-30.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\cloud-clipart-30.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\eye.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\eye.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/eye.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\eye.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\eye_hover.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\eye_hover.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/eye_hover.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\eye_hover.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\find.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\find.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/find.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\find.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_base.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_base.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/layer_base.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\layer_base.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_front.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_front.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/layer_front.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\layer_front.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_midle.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\layer_midle.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/layer_midle.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\layer_midle.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\line.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\line.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/line.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\line.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\mountains.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\mountains.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/mountains.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\mountains.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/phone.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\phone.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone11.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone11.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/phone11.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\phone11.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone12.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\phone12.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/phone12.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\phone12.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\sky_fon.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\sky_fon.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/sky_fon.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\sky_fon.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\sky_front.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\img\\sky_front.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/img/sky_front.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\sky_front.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\site.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\favicon.ico",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/1.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\11jpg.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\11jpg.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/11jpg.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\11jpg.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/1614569882_20-p-oblaka-na-belom-fone-33.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/1614569882_20-p-oblaka-na-belom-fone-33.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1614569882_20-p-oblaka-na-belom-fone-33.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\2.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\2.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\3.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\3.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/3.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\4.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\4.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/4.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\5.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\5.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/5.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\account.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\account.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/account.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\account.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\black-and-white-clou.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\black-and-white-clou.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/black-and-white-clou.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\black-and-white-clou.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\cloud-clipart-30.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\cloud-clipart-30.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/cloud-clipart-30.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cloud-clipart-30.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\eye.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\eye.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/eye.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eye.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\eye_hover.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\eye_hover.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/eye_hover.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eye_hover.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\find.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\find.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/find.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\find.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_base.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_base.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/layer_base.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layer_base.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_front.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_front.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/layer_front.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layer_front.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_midle.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\layer_midle.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/layer_midle.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\layer_midle.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\line.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\line.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/line.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\line.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\mountains.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\mountains.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/mountains.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mountains.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/phone.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\phone.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone11.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone11.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/phone11.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\phone11.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone12.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\phone12.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/phone12.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\phone12.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\sky_fon.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\sky_fon.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/sky_fon.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sky_fon.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\sky_front.png",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img\\sky_front.png",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img/sky_front.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sky_front.png"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20180517_182758.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20180517_182758.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/20180517_182758.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\20180517_182758.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20180711_213250.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20180711_213250.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/20180711_213250.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\20180711_213250.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20181101_102153.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\20181101_102153.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/20181101_102153.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\20181101_102153.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide1.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide1.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/slide1.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\slide1.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide2.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide2.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/slide2.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\slide2.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide3.jpg",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\img_slider\\slide3.jpg",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "img_slider/slide3.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img_slider\\slide3.jpg"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\js.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\js.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "js/js.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\js\\js.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\script.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\script.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\js\\site.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Веб-проект",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
       "BasePath": "_content/Веб-проект",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
