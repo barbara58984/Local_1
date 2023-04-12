@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj": {}
+    "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj": {
+    "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj",
+        "projectUniqueName": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj",
         "projectName": "Веб-проект",
-        "projectPath": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\OneDrive\\Рабочий стол\\Проектирование и архитектура ПС\\Local_1\\Веб-проект\\Веб-проект\\obj\\",
+        "projectPath": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\Веб-проект.csproj",
+        "packagesPath": "C:\\Users\\Акоп\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Акоп\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
