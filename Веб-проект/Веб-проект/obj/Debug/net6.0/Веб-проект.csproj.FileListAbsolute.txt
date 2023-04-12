@@ -50,3 +50,29 @@ C:\Users\1\OneDrive\Рабочий стол\Проектирование и ар
 C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.pdb
 C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.genruntimeconfig.cache
 C:\Users\1\OneDrive\Рабочий стол\Проектирование и архитектура ПС\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\ref\Веб-проект.dll
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\appsettings.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.staticwebassets.runtime.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.exe
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.deps.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.runtimeconfig.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.dll
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\bin\Debug\net6.0\Веб-проект.pdb
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.csproj.AssemblyReference.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.AssemblyInfoInputs.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.AssemblyInfo.cs
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.csproj.CoreCompileInputs.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.RazorAssemblyInfo.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.RazorAssemblyInfo.cs
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\bundle\Веб-проект.styles.css
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\scopedcss\projectbundle\Веб-проект.bundle.scp.css
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.dll
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\refint\Веб-проект.dll
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.pdb
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\Веб-проект.genruntimeconfig.cache
+D:\Users\Акоп\Documents\GitHub\Local_1\Веб-проект\Веб-проект\obj\Debug\net6.0\ref\Веб-проект.dll
