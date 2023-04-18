@@ -3,35 +3,77 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Веб_проект</title>
- @*   <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
-   @* <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />*@
-   @* <link rel="stylesheet" href="~/Веб_проект.styles.css" asp-append-version="true" />*@
-    <link rel="stylesheet" href="~/css/StyleSheet.css"/>
+    <title>@ViewData["Title"] - WebApplication2</title>
+    @*    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    @*<link rel="stylesheet" href="~/WebApplication2.styles.css" asp-append-version="true" />*@
 </head>
 <body>
+    <header>
+        <div class="py-1_bg-primary">
+            <div class="container_1">
+                <div class="row_d-flex">
+                    <div class="col_center">
+                        <!-- <img src="D:\Imagine\phone12.png"> -->
+                        <div class="col_center_3">
+                            <img class="picture_phone" src="../Img/phone12.png">
+                        </div>
+                        <div class="col_center_3">
+                            <span>+ 1235 2355 98</span>
+                        </div>
+
+                    </div>
+                    <!-- <div class="col_center">
+                        <span class="text">+ 1235 2355 98</span>
+                    </div>
+                     -->
+                    <div class="col_center_right">
+                        <a href="index.html" class="text"><img src="../Img/eye.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="navbar" id="ftco-navbar">
+            <div class="container_1">
+                <div class="left">
+                    <!-- <a class="navbar-brand" href="index.html">Vegefoods</a> -->
+                    <ul class="navbar-menu">
+                        <li>
+                            <a class="navbar-brand" href="index.html">ПинжАвия</a>
+
+                        </li>
+                        <li class="nav-item_active1">
+                            <a href="index.html" class="nav-link">Информация</a>
+                            <ul>
+                                <li><a href="#">GHbdtn</a></li>
+                                <li><a href="#">GHbdtn</a></li>
+                                <li><a href="#">GHbdtn</a></li>
+                                <li><a href="#">GHbdtn</a></li>
+                            </ul>
+                        </li>
 
 
-   @* <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Веб_проект</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Главная</a>
+                        <li class="nav-item_active">
+                            <a href="index.html" class="nav-link">Услуги</a>
+                            <ul>
+                                <li><a href="#">GHbdtn</a></li>
+                            </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Информация</a>
-                        </li>
+
+
+                    </ul>
+
+                </div>
+                <div class="collapse" id="ftco-nav">
+                    <ul class="navbar-menu">
+                        <li class="nav-item active"><a href="index.html" class="nav-link"><img src="../Img/find.png"></a></li>
+                        <li class="nav-item active"><a href="index.html" class="nav-link"><img src="../Img/account.png"></a></li>
                     </ul>
                 </div>
             </div>
         </nav>
+
     </header>
     <div class="container">
         <main role="main" class="pb-3">
@@ -39,113 +81,14 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+   @* <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - Веб_проект - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2023 - WebApplication2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>*@
-
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-   
-
-     <header>
-    <div class="py-1_bg-primary">
-    	<div class="container_1">
-    		<div class="row_d-flex">
-                <div class="col_center">
-                    <!-- <img src="D:\Imagine\phone12.png"> -->
-                    <div class="col_center_3">
-                        <img class="picture_phone" src="~/img/phone12.png">
-                    </div>
-                    <div class="col_center_3">
-                        <span>+ 1235 2355 98</span>
-                    </div>
-                   
-                </div>
-                <!-- <div class="col_center">
-                    <span class="text">+ 1235 2355 98</span>
-                </div>
-                 -->
-                <div class="col_center_right">
-                    <a href="index.html" class="text"><img src="~/img/eye.png"></a>
-                </div>
-            </div>
-		  </div>
-    </div>
-    <nav class="navbar" id="ftco-navbar">
-	    <div class="container_1">
-            <div class="left">
-                <!-- <a class="navbar-brand" href="index.html">Vegefoods</a> -->
-                <ul class="navbar-menu">
-                    <li><a class="navbar-brand" href="index.html">ПинжАвия</a></li>
-                    <li class="nav-item active"><a href="index.html" class="nav-link">Информация</a></li>
-                    <li class="nav-item_active"><a href="index.html" class="nav-link">Услуги</a></li>
-                    <li class="nav-item_active"><a href="index.html" class="nav-link">Главная</a></li>
-                    
-                  </ul>
-            </div>
-	      
-        
-	      <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
-	      </button> -->
-
-	      <div class="collapse" id="ftco-nav">
-	        <ul class="navbar-menu">
-            <li class="nav-item active"><a href="index.html" class="nav-link"><img src="~/img/find.png"></a></li>
-	          <li class="nav-item active"><a href="index.html" class="nav-link"><img src="~/img/account.png"></a></li>
-	          
-	          
-
-	        </ul>
-	      </div>
-	    </div>
-	  </nav>    
-      
-    </header>
-    @*<section>
-        <div class="layer layers_base" style="background-image: url(~/img/layer_base.png)"></div>
-        <div class="layer layers_title" style="background-image: url('~/img/layer_midle.png')"></div>
-        <div class="layer layers_front" style="background-image: url('~/img/layer_front.png')"></div>
-        <div class="sky"></div>
-    </section>*@
-    
-    <!-- <section class="amination">
-        <div class="layers">
-            <div class="layer_header">
-                <div class="layer_caption">Welcome!</div>
-                <div class="layer_title">Fairy forest!</div>
-            </div>
-            <div class="layer layers_base" style="background-image: url('D:/Imagine/layer_base.png')"></div>
-            <div class="layer layers_title" style="background-image: url('D:/Imagine/layer_midle.png')"></div>
-            <div class="layer layers_front" style="background-image: url('D:/Imagine/layer_front.png')"></div>
-        </div>
-    </section> -->
-   @* <section class="main_article">
-        <div class="main-article_content">
-            <h2 class="main-article_header">To be continued</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste temporibus ut, 
-                nam accusantium itaque sapiente obcaecati ratione architecto ipsum eum mollitia quo. 
-                Doloremque totam quos mollitia, iure culpa rerum accusamus aliquam eius.</p>
-        </div>
-        <div class="copy">
-            Designer
-        </div>
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </section>*@
-    <div>
-        
-            @RenderBody()
-        
-    </div>
-
-    <script src="~/js/js.js"></script>
-    <script src="~/js/script.js"></script>
-    <script src="~/js/site.js" ></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
