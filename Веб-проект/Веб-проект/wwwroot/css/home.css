@@ -169,7 +169,7 @@ section {
 }
 
 .main_article {
-    background-image: url('../img/mountains.png');
+    background-image: url("img/mountains.png");
     /* top:1350px; */
     position: absolute;
     display: block;
@@ -205,7 +205,7 @@ section .layer::after {
     /* height: 300px; */
     /* height: calc(var(--scrollTop)*3); */
     height: calc(var(--index)*20);
-    background-image: url('../img/line.png');
+    background-image: url("img/line.png");
     background-size: cover;
     bottom: calc(var(--index)*-14);
     background-repeat: no-repeat;
