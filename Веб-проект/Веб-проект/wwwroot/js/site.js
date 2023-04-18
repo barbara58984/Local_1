@@ -1,4 +1,8 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
+function openForm() {
+    document.getElementById("content_pass").style.display = "block";
+}
 
-// Write your JavaScript code.
+function closeForm() {
+    document.getElementById("content_pass").style.display = "none";
+}

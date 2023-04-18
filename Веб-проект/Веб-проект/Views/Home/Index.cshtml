@@ -5,43 +5,11 @@
 
 
 <section class="skying">
-    @*<div class="layer layers_base" style="background-image: src(~/img/layer_base.png)"></div>
-    <div class="layer layers_title" style="background-image: url('~/img/layer_midle.png')"></div>
-    <div class="layer layers_front" style="background-image: url('~/img/layer_front.png')"></div>
-    <div class="sky"></div>*@
-    <div class="layer layers_base"><img class="layer layers_base" src="~/img/layer_base.png" /></div>
+  
+    <div class="layer layers_base"><img class="layer layers_base" src="~/img/layer_base.png" />    </div>
     <div class="layer layers_title"><img class="layer layers_title" src="~/img/layer_midle.png" /></div>
     <div class="layer layers_front"><img class="layer layers_front" src="~/img/layer_front.png" /></div>
-    <div class="sky"></div>
-</section>
-<section class="main_article">
-    <div class="main-article_content">
-        @*<h2 class="main-article_header">To be continued</h2>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste temporibus ut,
-            nam accusantium itaque sapiente obcaecati ratione architecto ipsum eum mollitia quo.
-            Doloremque totam quos mollitia, iure culpa rerum accusamus aliquam eius.
-        </p>*@
-    </div>
-    @*<div class="copy">
-        Designer
-    </div>*@
-    <div class="slider">
-          <div class="item">
-              <img src="~/img_slider/20180517_182758.jpg" />
-          </div>
-      
-          <div class="item">
-            <img  src="~/img_slider/20180711_213250.jpg" />
-          </div>
-      
-          <div class="item">
-            <img  src="~/img_slider/20181101_102153.jpg" />
-          </div>
-      
-            <a class="prev" onclick="minusSlide()">&#10094;</a>
-            <a class="next" onclick="plusSlide()">&#10095;</a>
-      </div>
+    <div class="tit"><p>ПинжАвия</p></div>
     <div class="forms">
         <div class="tabs">
             <input type="radio" name="tab-btn" id="tab-btn-1" value="" checked>
@@ -51,7 +19,7 @@
             <input type="radio" name="tab-btn" id="tab-btn-3" value="">
             <label for="tab-btn-3">Управление бронированием</label>
             <div id="content-1">
-                <form method="post" action="/Home/Check">
+                <form>
 
                     <datalist id="CityList">
                         <option value="Moscow">Москва</option>
@@ -84,7 +52,7 @@
                 </form>
             </div>
             <div id="content-2">
-                <form method="post" action="/Home/Check">
+                <form>
                     <label for="Booking_code"></label>
                     <input type="text" placeholder="Код бронирования" id="Booking_code" name="Booking_code" value="" required>
 
@@ -106,9 +74,9 @@
                 </form>
             </div>
         </div>
-        </div>
+    </div>
     <div id="content_pass" class="content_pass">
-        <form method="post" action="/Home/Check">
+        <form>
             <input type="submit" value="×" id="bt_close" name="close" onclick="closeForm()">
 
             <div class="Adults">
@@ -141,8 +109,18 @@
 
         </form>
     </div>
-
-    <script>
+   
+@*    </div>*@
+   @* <div class="layer layers_title"><img class="layer layers_title" src="~/img/layer_midle.png" /></div>
+    <div class="layer layers_front"><img class="layer layers_front" src="~/img/layer_front.png" /></div>*@
+    @*<div class="sky"></div>*@
+</section>
+<section class="main_article">
+    <div class="main-article_content">
+       
+    </div>
+   
+@*    <script>
         function openForm() {
             document.getElementById("content_pass").style.display = "block";
         }
@@ -151,6 +129,6 @@
             document.getElementById("content_pass").style.display = "none";
         }
 
-    </script>
+    </script>*@
 </section>
 

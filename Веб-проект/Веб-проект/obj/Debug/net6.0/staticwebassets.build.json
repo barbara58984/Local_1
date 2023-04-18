@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ROT71Rh8z3H+6Y7yBfBYftZpnskUWbUnvFO+4Qv48m0=",
+  "Hash": "bD93XZp+XGFR8a61NRo4M3sIcNdkHG5CsH05WUpx6Ko=",
   "Source": "Веб-проект",
   "BasePath": "_content/Веб-проект",
   "Mode": "Default",
@@ -491,6 +491,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "Веб-проект",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\",
+      "BasePath": "_content/Веб-проект",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "D:\\Users\\Акоп\\Documents\\GitHub\\Local_1\\Веб-проект\\Веб-проект\\wwwroot\\favicon.ico",
